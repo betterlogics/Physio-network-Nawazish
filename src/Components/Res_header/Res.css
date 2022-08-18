@@ -1,0 +1,37 @@
+.res_bg{
+    background-image: url(../Assets/freebg.jpeg) !important;
+    background-position: center !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    padding: 40px 0px  !important;
+   
+    
+}
+.res_card{
+    background-color: rgba(0, 0, 0, 0.55);
+    padding: 80px 0;
+}
+
+.Res_text{
+    font-size: 36px;
+    color: #fff;
+}
+.res_para{
+    font-size: 18px;
+    color: #fff;
+    line-height: 24px;
+    font-family: "Lato", sans-serif;
+}
+
+
+
+
+
+/* media qurey starts here  */
+
+
+@media only screen and (max-width:700px) {
+
+    
+
+}

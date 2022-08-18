@@ -1,0 +1,59 @@
+.sub_main{
+    padding: 25px 0px 25px 0px;
+    background-color: rgb(156, 201, 220);
+    color: hsl(0, 0%, 100%) !important;
+   
+   
+}
+p{
+    margin-bottom: 16px !important;
+}
+
+.sub_h2{
+    font-size: 24px !important;
+    margin: 0px 0px 10px;
+}
+.sub_icon{
+    color:rgb(88, 88, 143)
+}
+.Sub_footer{
+    color: hsl(0, 0%, 100%) !important;
+}
+.btnf{
+    background-color:#bbd3dd !important;
+    color: white;
+}
+.btn-black {
+    background-color: #1a1a1a;
+    color:white;
+   
+}
+.btn-black:hover{
+    color: white;
+}
+.form-control {
+    border: 2px solid #5795af;
+   
+    line-height: 1.7;
+    box-shadow: none;
+    border-radius: 10px;
+    font-size: 14px;
+}
+
+.btnf:hover{
+    background-color:#66badf !important;
+}
+.foot_a{
+    color: #5795af !important;
+}
+
+
+
+
+
+
+/* Media qurey starts from here  */
+
+.fo_btn{
+    margin-top: 5px!important;
+}

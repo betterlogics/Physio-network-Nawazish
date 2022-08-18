@@ -1,0 +1,40 @@
+.Main_box{
+    background-color: white;
+    padding: 50px 0px
+}
+.Inner_box{
+    background-color: #f7f7f7;
+padding: 20px;
+border: 15px solid #f7f7f7;
+border-radius: 8px;
+text-align: center;
+height: 100%;
+
+}
+.Res_row{
+    justify-content: space-around !important;
+}
+
+.Res_h2{
+    color: #1a1a1a;
+    margin: 0px 0px 10px;
+    font-size: 28px;
+    line-height: 1.1;
+margin-top: 10px;
+}
+.para_res{
+    color: #4c4949;
+}
+.res_btn{
+    background-color: #82bbd3 !important;
+}
+
+
+
+/* media qurey starts here */
+@media only screen and (max-width:700px)
+{
+  .mar{
+    margin-bottom: 15px !important;
+  }
+}

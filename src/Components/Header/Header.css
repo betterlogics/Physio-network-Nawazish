@@ -1,0 +1,7 @@
+.nav_li{
+    color: black !important;
+}
+
+.nav_li:hover{
+color: aquamarine !important;
+}

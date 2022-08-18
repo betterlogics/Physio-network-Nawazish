@@ -1,0 +1,63 @@
+.Main_bg{
+    background-color: white;
+    padding: 50px 0px;
+}
+.Main_content{
+    font-size:32px;
+}
+h1,h3,h4,h5,h6{
+    color: #272727;
+    margin-bottom: 0.5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+}
+.login_a{
+    text-decoration: none;
+    
+}
+
+.login_a:hover{
+    color: grey;
+}
+p{
+    margin-top: 0px;
+    margin-bottom: 1rem;
+}
+.Main_card{
+    background-color: rgb(247, 247, 247);
+    padding: 25px;
+    border-radius: 5px;
+}
+.iput_log{
+    padding: 8px;
+    line-height: 1.7;
+    box-shadow: none;
+    border-radius: 5px;
+    font-size: 14px;
+    border: 2px solid #d4d4d4;
+    width: 100%;
+}
+
+.apass{
+    text-decoration: underline;
+    
+    color: #4295b1;
+    margin-right: 50%;
+
+   padding-top: 10px;
+}
+.log_btn{
+    background-color: #007bff;
+    margin-top: 10px;
+    text-transform: uppercase;
+    text-shadow: none;
+    border: none;
+    box-shadow: none !important;
+    border-radius: 4px;
+    font-weight: 400;
+    padding: 8px;
+    font-size: 14px;
+    color: #fff !important;
+    line-height: 1;
+}
